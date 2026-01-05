@@ -1,4 +1,5 @@
-# 💫 Hi, I’m Rounak
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Rounak%20👋!&fontAlign=50&fontAlignY=40&color=gradient)
+
 <br> a Computer Science student at an IIT Jodhpur with a strong interest in software engineering and competitive programming. I actively work on mastering DSA, algorithmic patterns, and optimization techniques used in real-world systems and coding competitions. I enjoy building solutions that are both logically sound and performance-efficient, and I am constantly pushing myself toward top-tier SDE-level proficiency.
 
 
