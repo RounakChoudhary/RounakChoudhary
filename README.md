@@ -1,4 +1,5 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Rounak%20👋!&fontAlign=50&fontAlignY=40&color=gradient)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=64&duration=4000&pause=2000&color=2D95F7&center=true&vCenter=true&width=1000&height=60&lines=Hello;I'm+Rounak+Choudhary;Competitive+Programmer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
 
 <br> a Computer Science student at an IIT Jodhpur with a strong interest in software engineering and competitive programming. I actively work on mastering DSA, algorithmic patterns, and optimization techniques used in real-world systems and coding competitions. I enjoy building solutions that are both logically sound and performance-efficient, and I am constantly pushing myself toward top-tier SDE-level proficiency.
 
