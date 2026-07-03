@@ -12,8 +12,8 @@
 
 | Platform | Handle | Max Rating |
 |:---|:---|:---|
-| Codeforces | [RC_007](https://codeforces.com/profile/rounak_3978) | **1610** — Expert |
-| LeetCode | [rounak_3978](https://leetcode.com/rounak_3978) | **2065** — Knight · Top 1.82% |
+| Codeforces | [RC_007](https://codeforces.com/profile/rounak_3978) | **1648** — Expert |
+| LeetCode | [rounak_3978](https://leetcode.com/rounak_3978) | **2077** — Knight · Top 1.72% |
 
 ---
 
