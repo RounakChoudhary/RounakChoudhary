@@ -126,6 +126,8 @@ I enjoy building projects that solve real problems, learning modern technologies
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RounakChoudhary&style=for-the-badge&color=2ea043" />
+  <p> Profile Views </p>
+  <img src="https://count.getloli.com/@:RounakChoudhary?theme=rule34" alt=":Rounak" />
+ 
 </p>
 ```
