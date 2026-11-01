@@ -28,14 +28,14 @@ I enjoy building projects that solve real problems, learning modern technologies
 </a>
 
 <a href="https://leetcode.com/rounak_3978">
-<img src="https://img.shields.io/badge/rounak__3978-LeetCode_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/rounak__3978-LeetCode_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </p>
 
 <p align="center">
-<b>1648</b> • Codeforces Expert &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<b>2077</b> • LeetCode Knight • Top 1.72%
+<b>1653</b> • Codeforces Expert &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<b>2175</b> • LeetCode Guardian • Top 1.06%
 </p>
 
 ---
